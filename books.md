@@ -7,7 +7,7 @@ permalink: /books/
 ## Remaindered People and Other Stories (2025)
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
-    <img src="/pratap-reddy/assets/images/remaindered-people.jpg" alt="Remaindered People" style="width: 40%;">
+    <img src="/pratap-reddy/assets/images/remaindered-people.jpg" alt="Remaindered People Front Cover" style="width: 40%;">
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
@@ -17,14 +17,14 @@ permalink: /books/
       <li><a href="#" target="_blank">Guernica Editions</a></li>
     </ul>
   </div>
-</div
+</div>
 ---
 
 ## Shards of Verse (2024) 
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
-    <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front" style="width: 40%;">
-    <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" style="width: 40%;">
+    <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front Cover" style="width: 40%;">
+    <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back Cover" style="width: 40%;">
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">

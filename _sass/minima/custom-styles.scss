@@ -1,2 +1,11 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+.site-nav {
+  display: flex;
+  justify-content: center; /* Centers the navigation items horizontally */
+  gap: 20px; /* Adds spacing between navigation items */
+  list-style: none; /* Removes default list styling */
+  padding: 0;
+  margin: 0;
+}

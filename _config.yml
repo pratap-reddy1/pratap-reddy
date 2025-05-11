@@ -1,5 +1,9 @@
 theme: minima
 
+author:
+  name: Pratap Reddy
+  email: pratapreddy@rogers.com
+
 nav:
   - title: Pratap Reddy
     url: /

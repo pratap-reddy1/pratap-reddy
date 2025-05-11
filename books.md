@@ -3,7 +3,6 @@ title: My Books
 permalink: /books/
 ---
 
-# My Books
 
 ## Remaindered People and Other Stories (Coming soon!)
 ![Remaindered People and Other Stories](assets/images/remaindered-people.jpg)

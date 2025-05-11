@@ -15,3 +15,7 @@ nav:
 
 minima:
   hide_site_feed_link: true
+  social_links:
+    - title: Instagram
+      url: "instagram.com/pratapreddycanada"
+      icon: /assets/images/instagram-53-32.png

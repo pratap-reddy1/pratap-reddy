@@ -23,5 +23,3 @@ permalink: /books/
 ![Weather Permitting & Other Stories](assets/images/weather-permitting.jpg)
 
 ---
-
-[Buy my books here](#)

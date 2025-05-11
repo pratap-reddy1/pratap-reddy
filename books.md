@@ -3,8 +3,7 @@ title: My Books
 permalink: /books/
 ---
 
-
-## Remaindered People and Other Stories (2025)
+## <span style="display: block; text-align: center;">Remaindered People and Other Stories (2025)</span>
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
     <img src="/pratap-reddy/assets/images/remaindered-people.jpg" alt="Remaindered People Front Cover" style="width: 80%;">
@@ -18,9 +17,10 @@ permalink: /books/
     </ul>
   </div>
 </div>
+
 ---
 
-## Shards of Verse (2024) 
+## <span style="display: block; text-align: center;">Shards of Verse (2024)</span>
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
     <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front Cover" style="width: 40%;">
@@ -37,7 +37,7 @@ permalink: /books/
 
 ---
 
-## Ramya's Treasure (2018)
+## <span style="display: block; text-align: center;">Ramya's Treasure (2018)</span>
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
     <img src="/pratap-reddy/assets/images/ramya-front.jpg" alt="Ramya's Treasure Front Cover" style="width: 40%;">
@@ -53,10 +53,9 @@ permalink: /books/
   </div>
 </div>
 
-
 ---
 
-## Weather Permitting & Other Stories (2016)
+## <span style="display: block; text-align: center;">Weather Permitting & Other Stories (2016)</span>
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
     <img src="/pratap-reddy/assets/images/weather-permitting.jpg" alt="Weather Permitting" style="width: 80%;">

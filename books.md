@@ -12,12 +12,8 @@ permalink: /books/
 ## Shards of Verse (2024) 
 <div style="display: flex; gap: 10px; align-items: center;">
   <div style="display: flex; gap: 10px;">
-    <a href="#shards-front" style="text-decoration: none;">
-      <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front" style="width: 40%;">
-    </a>
-    <a href="#shards-back" style="text-decoration: none;">
-      <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" style="width: 40%;">
-    </a>
+    <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front" style="width: 40%; cursor: pointer;" onclick="openLightbox('shards-front')">
+    <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" style="width: 40%; cursor: pointer;" onclick="openLightbox('shards-back')">
   </div>
   <div style="margin-left: -10px; white-space: nowrap;"> <!-- Prevents text wrapping -->
     <ul style="list-style: none; padding: 0; margin: 0;">
@@ -30,15 +26,15 @@ permalink: /books/
 </div>
 
 <!-- Lightbox for Shards Front -->
-<div id="shards-front" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); z-index: 1000; justify-content: center; align-items: center;">
-  <a href="#" style="position: absolute; top: 20px; right: 20px; color: white; font-size: 24px; text-decoration: none;">&times;</a>
-  <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front" style="max-width: 90%; max-height: 90%;">
+<div id="shards-front" class="lightbox" style="display: none;">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <img src="/pratap-reddy/assets/images/shards-front.png" alt="Shards of Verse Front" class="lightbox-content">
 </div>
 
 <!-- Lightbox for Shards Back -->
-<div id="shards-back" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.8); z-index: 1000; justify-content: center; align-items: center;">
-  <a href="#" style="position: absolute; top: 20px; right: 20px; color: white; font-size: 24px; text-decoration: none;">&times;</a>
-  <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" style="max-width: 90%; max-height: 90%;">
+<div id="shards-back" class="lightbox" style="display: none;">
+  <span class="lightbox-close" onclick="closeLightbox()">&times;</span>
+  <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" class="lightbox-content">
 </div>
 
 ---

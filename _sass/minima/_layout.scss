@@ -29,7 +29,9 @@
 }
 
 .site-nav {
-  float: right;
+  display: flex; /* Use flexbox for layout */
+  justify-content: center; /* Centers the navigation items horizontally */
+  align-items: center; /* Ensures vertical alignment */
   border: none;
   background-color: inherit;
 

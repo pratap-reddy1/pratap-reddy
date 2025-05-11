@@ -11,8 +11,8 @@ permalink: /books/
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
-      <li><a href="#" target="_blank">Amazon.com</a></li>
-      <li><a href="#" target="_blank">Amazon Canada</a></li>
+      <li><a href="https://a.co/d/34caoEF" target="_blank">Amazon.com</a></li>
+      <li><a href="https://a.co/d/37KU2fG" target="_blank">Amazon Canada</a></li>
       <li><a href="#" target="_blank">Chapters</a></li>
       <li><a href="#" target="_blank">Guernica Editions</a></li>
     </ul>
@@ -28,8 +28,8 @@ permalink: /books/
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
-      <li><a href="#" target="_blank">Amazon.com</a></li>
-      <li><a href="#" target="_blank">Amazon Canada</a></li>
+      <li><a href="https://a.co/d/1gXeKcF" target="_blank">Amazon.com</a></li>
+      <li><a href="https://a.co/d/37KU2fG" target="_blank">Amazon Canada</a></li>
       <li><a href="#" target="_blank">Chapters</a></li>
       <li><a href="#" target="_blank">Guernica Editions</a></li>
     </ul>
@@ -46,7 +46,7 @@ permalink: /books/
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
-      <li><a href="#" target="_blank">Amazon.com</a></li>
+      <li><a href="https://a.co/d/gMKhE8D" target="_blank">Amazon.com</a></li>
       <li><a href="#" target="_blank">Amazon Canada</a></li>
       <li><a href="#" target="_blank">Chapters</a></li>
       <li><a href="#" target="_blank">Guernica Editions</a></li>
@@ -64,7 +64,7 @@ permalink: /books/
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
-      <li><a href="#" target="_blank">Amazon.com</a></li>
+      <li><a href="https://a.co/d/g2OVS0m" target="_blank">Amazon.com</a></li>
       <li><a href="#" target="_blank">Amazon Canada</a></li>
       <li><a href="#" target="_blank">Chapters</a></li>
       <li><a href="#" target="_blank">Guernica Editions</a></li>

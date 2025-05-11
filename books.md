@@ -13,8 +13,8 @@ permalink: /books/
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
       <li><a href="https://a.co/d/34caoEF" target="_blank">Amazon.com</a></li>
       <li><a href="https://a.co/d/37KU2fG" target="_blank">Amazon Canada</a></li>
-      <li><a href="#" target="_blank">Chapters</a></li>
-      <li><a href="#" target="_blank">Guernica Editions</a></li>
+      <li><a href="https://www.indigo.ca/en-ca/remaindered-people-other-stories/9781771839365.html" target="_blank">Indigo</a></li>
+      <li><a href="https://guernicaeditions.com/products/remaindered-people-amp-other-stories" target="_blank">Guernica Editions</a></li>
     </ul>
   </div>
 </div>
@@ -29,9 +29,8 @@ permalink: /books/
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
       <li><a href="https://a.co/d/1gXeKcF" target="_blank">Amazon.com</a></li>
-      <li><a href="https://a.co/d/37KU2fG" target="_blank">Amazon Canada</a></li>
-      <li><a href="#" target="_blank">Chapters</a></li>
-      <li><a href="#" target="_blank">Guernica Editions</a></li>
+      <li><a href="https://a.co/d/6u5zofX" target="_blank">Amazon Canada</a></li>
+      <li><a href="https://www.indigo.ca/en-ca/shards-of-verse/9781069162908.html" target="_blank">Indigo</a></li>
     </ul>
   </div>
 </div>
@@ -47,9 +46,9 @@ permalink: /books/
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
       <li><a href="https://a.co/d/gMKhE8D" target="_blank">Amazon.com</a></li>
-      <li><a href="#" target="_blank">Amazon Canada</a></li>
-      <li><a href="#" target="_blank">Chapters</a></li>
-      <li><a href="#" target="_blank">Guernica Editions</a></li>
+      <li><a href="https://a.co/d/brJkvG5" target="_blank">Amazon Canada</a></li>
+      <li><a href="https://www.indigo.ca/en-ca/ramyas-treasure/9781771833288.html" target="_blank">Indigo</a></li>
+      <li><a href="https://guernicaeditions.com/products/ramyas-treasure" target="_blank">Guernica Editions</a></li>
     </ul>
   </div>
 </div>
@@ -65,9 +64,9 @@ permalink: /books/
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
       <li><a href="https://a.co/d/g2OVS0m" target="_blank">Amazon.com</a></li>
-      <li><a href="#" target="_blank">Amazon Canada</a></li>
-      <li><a href="#" target="_blank">Chapters</a></li>
-      <li><a href="#" target="_blank">Guernica Editions</a></li>
+      <li><a href="https://a.co/d/6ChLLvd" target="_blank">Amazon Canada</a></li>
+      <li><a href="https://www.indigo.ca/en-ca/weather-permitting-other-stories/9781771830560.html" target="_blank">Indigo</a></li>
+      <li><a href="https://guernicaeditions.com/products/weather-permitting-amp-other-stories" target="_blank">Guernica Editions</a></li>
     </ul>
   </div>
 </div>

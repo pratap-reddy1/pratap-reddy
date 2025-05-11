@@ -1,9 +1,5 @@
 theme: minima
 
-author:
-  name: Pratap Reddy
-  email: pratapreddy@rogers.com
-  
 title: Pratap Reddy
 
 nav:
@@ -23,3 +19,6 @@ minima:
     - title: LinkedIn
       url: "https://linkedin.com/in/pratap-reddy-02535a15a"
       icon: linkedin
+    - title: Email
+      url: "mailto:pratapreddy@rogers.com"
+      icon: envelope

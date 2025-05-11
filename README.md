@@ -1,57 +1,40 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Pratap Reddy - GitHub Pages Site
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Author, Writer, and Storyteller_
 
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## About This Repository
 
-## Finish
+This repository hosts the GitHub Pages site for Pratap Reddy, featuring his works, books, and blog posts. The site is built using Jekyll and is designed to showcase his literary journey and provide updates on his latest projects.
 
-_Congratulations friend, you've completed this course!_
+## Features
 
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
+- **Homepage**: Learn about Pratap Reddy and his journey as a writer.
+- **Books**: Explore his published works, including _Ramya's Treasure_ and _Weather Permitting & Other Stories_.
+- **Blog**: Read posts about writing, storytelling, and the immigrant experience.
+- **Contact**: Get in touch for collaborations or inquiries.
 
-Your blog is now live and has been deployed!
+## How to View the Site
 
-Here's a recap of all the tasks you've accomplished in your repository:
+The site is live and can be accessed at: [https://your-username.github.io/pratap-reddy](https://your-username.github.io/pratap-reddy)
 
-- You enabled GitHub Pages.
-- You selected a theme using the config file.
-- You learned about proper directory format and file naming conventions in Jekyll.
-- You created your first blog post with Jekyll!
+## How to Contribute
 
-### What's next?
+If you'd like to contribute to this repository, feel free to fork it, make changes, and submit a pull request. Suggestions for improvements or additional features are always welcome!
 
-- Keep working on your GitHub Pages site... we love seeing what you come up with!
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+## License
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
 ---
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+Get help: [GitHub Pages Documentation](https://docs.github.com/en/pages) &bull; [Jekyll Documentation](https://jekyllrb.com/docs/) &bull; [GitHub Support](https://support.github.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 Pratap Reddy &bull; [MIT License](https://opensource.org/licenses/MIT)
 
 </footer>

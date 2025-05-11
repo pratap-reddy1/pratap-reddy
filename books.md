@@ -16,7 +16,7 @@ permalink: /books/
     <img src="/pratap-reddy/assets/images/shards-back.png" alt="Shards of Verse Back" style="width: 40%;">
   </div>
   <div>
-    <ul style="list-style: none; padding: 0; margin: 0;">
+    <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
       <li><a href="#" target="_blank">Amazon.com</a></li>
       <li><a href="#" target="_blank">Amazon Canada</a></li>
       <li><a href="#" target="_blank">Chapters</a></li>

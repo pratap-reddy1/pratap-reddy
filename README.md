@@ -2,28 +2,22 @@
 
 # Pratap Reddy - GitHub Pages Site
 
-_Author, Writer, and Storyteller_
-
 </header>
 
 ## About This Repository
 
-This repository hosts the GitHub Pages site for Pratap Reddy, featuring his works, books, and blog posts. The site is built using Jekyll and is designed to showcase his literary journey and provide updates on his latest projects.
+This repository hosts the GitHub Pages site for Pratap Reddy. The site is built using Jekyll and is designed to showcase his literary journey and provide updates on his latest projects.
 
 ## Features
 
 - **Homepage**: Learn about Pratap Reddy and his journey as a writer.
 - **Books**: Explore his published works, including _Ramya's Treasure_ and _Weather Permitting & Other Stories_.
-- **Blog**: Read posts about writing, storytelling, and the immigrant experience.
 - **Contact**: Get in touch for collaborations or inquiries.
 
 ## How to View the Site
 
 The site is live and can be accessed at: [https://your-username.github.io/pratap-reddy](https://your-username.github.io/pratap-reddy)
 
-## How to Contribute
-
-If you'd like to contribute to this repository, feel free to fork it, make changes, and submit a pull request. Suggestions for improvements or additional features are always welcome!
 
 ## License
 

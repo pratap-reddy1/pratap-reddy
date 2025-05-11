@@ -12,3 +12,6 @@ nav:
     url: /books/
   - title: Education
     url: /education/
+
+minima:
+  hide_site_feed_link: true

@@ -9,6 +9,8 @@ nav:
     url: /books/
   - title: Education
     url: /education/
+  - title: Awards
+    url: /awards/
 
 minima:
   hide_site_feed_link: true

@@ -4,13 +4,13 @@ permalink: /books/
 ---
 
 
-## Remaindered People and Other Stories (Coming soon!)
+## Remaindered People and Other Stories (2025)
 ![Remaindered People and Other Stories](assets/images/remaindered-people.jpg)
 
 ---
 
 ## Shards of Verse (2024) 
-![Shards of Verse](assets/images/remaindered-people.jpg)
+![Shards of Verse](assets/images/shards-front.png) ![Shards of Verse Back](assets/images/shards-back.png)
 
 ---
 

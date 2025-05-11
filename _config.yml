@@ -1,8 +1,9 @@
 theme: minima
 
-author: Pratap Reddy
-email: "pratapreddy@rogers.com"
-
+author:
+  name: Pratap Reddy
+  email: pratapreddy@rogers.com
+  
 title: Pratap Reddy
 
 nav:
@@ -17,7 +18,7 @@ minima:
   hide_site_feed_link: true
   social_links:
     - title: Instagram
-      url: "instagram.com/pratapreddycanada"
+      url: "https://instagram.com/pratapreddycanada"
       icon: instagram
     - title: LinkedIn
       url: "https://linkedin.com/in/pratap-reddy-02535a15a"

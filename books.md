@@ -7,7 +7,7 @@ permalink: /books/
 ## Remaindered People and Other Stories (2025)
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
-    <img src="/pratap-reddy/assets/images/remaindered-people.jpg" alt="Remaindered People Front Cover" style="width: 40%;">
+    <img src="/pratap-reddy/assets/images/remaindered-people.jpg" alt="Remaindered People Front Cover" style="width: 80%;">
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">
@@ -60,7 +60,7 @@ permalink: /books/
 ## Weather Permitting & Other Stories (2016)
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
-    <img src="/pratap-reddy/assets/images/weather-permitting.jpg" alt="Weather Permitting" style="width: 40%;">
+    <img src="/pratap-reddy/assets/images/weather-permitting.jpg" alt="Weather Permitting" style="width: 80%;">
   </div>
   <div>
     <ul style="list-style: none; padding: 0; margin: 0; white-space: nowrap;">

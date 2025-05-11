@@ -1,1 +1,9 @@
 theme: minima
+
+nav:
+  - title: Pratap Reddy
+    url: /
+  - title: Books
+    url: /books/
+  - title: Education
+    url: /education/

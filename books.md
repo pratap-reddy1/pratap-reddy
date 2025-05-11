@@ -10,12 +10,15 @@ permalink: /books/
 ---
 
 ## Shards of Verse (2024) 
-![Shards of Verse](assets/images/shards-front.png) ![Shards of Verse Back](assets/images/shards-back.png)
+<div style="display: flex; gap: 10px;">
+  <img src="assets/images/shards-front.png" alt="Shards of Verse Front" style="width: 45%;">
+  <img src="assets/images/shards-back.png" alt="Shards of Verse Back" style="width: 45%;">
+</div>
 
 ---
 
 ## Ramya's Treasure (2018)
-![Ramya's Treasure](assets/images/ramyas-treasure.jpg)
+![Ramya's Treasure](assets/images/ramyas-front.jpg)
 
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: Pratap Reddy
+permalink: /
 ---
 
 ![Pratap Reddy](assets/images/pratap-reddy.jpg){:style="display:block; margin-left:auto; margin-right:auto"}

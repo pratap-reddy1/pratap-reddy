@@ -16,12 +16,8 @@ This repository hosts the GitHub Pages site for Pratap Reddy. The site is built 
 
 ## How to View the Site
 
-The site is live and can be accessed at: [https://your-username.github.io/pratap-reddy](https://your-username.github.io/pratap-reddy)
+The site is live and can be accessed at: [https://www.pratapreddy.com](https://www.pratapreddy.com)
 
-
-## License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 <footer>
 

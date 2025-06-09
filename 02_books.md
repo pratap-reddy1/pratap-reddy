@@ -3,7 +3,7 @@ title: My Books
 permalink: /books/
 ---
 
-## Remaindered People and Other Stories (2025)
+## Remaindered People & Other Stories (2025)
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="display: flex; gap: 10px;">
     <img src="/assets/images/remaindered-people.jpg" alt="Remaindered People Front Cover" style="width: 80%;">
